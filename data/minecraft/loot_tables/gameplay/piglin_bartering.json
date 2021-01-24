@@ -1,0 +1,99 @@
+{
+  "type": "minecraft:barter",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 8,
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "enchantments": [
+                "minecraft:soul_speed"
+              ]
+            }
+          ],
+          "name": "minecraft:iron_boots"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 8,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Potion:\"minecraft:fire_resistance\"}"
+            }
+          ],
+          "name": "minecraft:potion"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4.0,
+                "max": 8.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "minecraft:ender_pearl"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 3.0,
+                "max": 9.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "minecraft:string"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 40,
+          "name": "minecraft:obsidian"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1.0,
+                "max": 3.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "minecraft:crying_obsidian"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2.0,
+                "max": 8.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "minecraft:nether_brick"
+        }
+      ]
+    }
+  ]
+}
