@@ -13,7 +13,7 @@ PogLoot is a Minecraft: Java Edition Datapack (and in the future a mod) that imp
 ### P: There is no datapacks folder, I can't find my Minecraft folder, it only accepts "mcpack" files
 S: This is probably because you are using an outdated version of Minecraft that doesn't support datapacks or you are using Bedrock Edition. **Bedrock Edition support will be added in a future release!**
 ### P: My speedrun got rejected
-S: This datapack is only for practicing and can't be used in a real run. I am currently applying for a separate leaderboard for this mod.
+S: This datapack is only for practicing and can't be used in a real run. If you want to use this in a speedrun.com run, go to [this leaderboard](https://www.speedrun.com/mc_pogloot/full_game).
 ### P: The loot wasn't OP
 S: This happens sometimes. In a bad scenario, you might get the minimum drop possible. This is just how the game works and how it generates the loot tables
 ### P: Does this work on servers?
