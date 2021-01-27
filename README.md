@@ -22,7 +22,5 @@ S: Yes, it does.
 S: Scroll up for singleplayer, and for server, modify step 2 to be: Open your server folder, then open the folder of the world you wish to install the data pack in (default:  `world`). Don't do step 5. Type `/reload` from the console or as an operator if the server was running during the installation.
 ### P: Can I use this in a YouTube video or Twitch stream?
 S: Yeah, that's the whole point! If you're on YouTube just leave a link to the releases page somewhere, no specifics. You can put it at the bottom, you can put it in the video for a literal second. Whatever floats your boat. Credit, however, is appreciated. (https://GitHub.com/AbyssStudios/PogLoot/releases)
-### P: Your logo is weird
-S: That's not a problem, but it's the mascot to POG Juice
 ## Future Plans
 We are planning to convert to Fabric and Forge, and we also want to expand to Bedrock Edition. If you have any suggested modifications to the loot tables, just open up a pr or an issue!
