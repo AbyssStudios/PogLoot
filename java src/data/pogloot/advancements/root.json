@@ -1,0 +1,30 @@
+{
+    "display": {
+        "title": {
+            "text": "End Trigger"
+        },
+        "description": {
+            "text": "Starts Dragon Perch"
+        },
+        "icon": {
+            "item": "minecraft:stone"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true,
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+    },
+    "criteria": {
+        "Enter End": {
+            "trigger": "minecraft:changed_dimension",
+            "conditions": {
+                "from": "overworld",
+                "to": "the_end"
+            }
+        }
+    },
+    "rewards": {
+        "function": "pogloot:dragonwait"
+    }
+}
