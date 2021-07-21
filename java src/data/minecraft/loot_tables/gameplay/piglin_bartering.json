@@ -19,7 +19,7 @@
         },
         {
           "type": "minecraft:item",
-          "weight": 1,
+          "weight": 2,
           "functions": [
             {
               "function": "minecraft:set_nbt",
