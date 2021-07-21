@@ -23,4 +23,4 @@ S: Scroll up for singleplayer, and for server, modify step 2 to be: Open your se
 ### P: Can I use this in a YouTube video or Twitch stream?
 S: Yeah, that's the whole point! No credit needed!
 ## Future Plans
-We are planning to convert to Fabric and Forge, and we also want to expand to Bedrock Edition. If you have any suggested modifications to the loot tables, just open up a pr or an issue!
+Add villager integrations! If you have any suggested modifications to the loot tables, just open up a pr or an issue!
