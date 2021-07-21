@@ -1,1 +1,1 @@
-/schedule pogloot:dragonperch 60s
+schedule pogloot:dragonperch 30s
