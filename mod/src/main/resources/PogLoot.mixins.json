@@ -4,9 +4,10 @@
   "package": "mj535.minecraft.pogloot.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
+    "DebugHudMixin"
   ],
-  "client": [
-  ],
+  "client": [],
+  "server": [],
   "injectors": {
     "defaultRequire": 1
   }
