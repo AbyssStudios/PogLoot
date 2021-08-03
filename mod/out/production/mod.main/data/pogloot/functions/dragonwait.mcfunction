@@ -1,1 +1,0 @@
-schedule pogloot:dragonperch 30s
