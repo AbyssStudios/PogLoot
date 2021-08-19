@@ -11,7 +11,7 @@ PogLoot is a Minecraft: Java Edition Datapack (and in the future a mod) that imp
 5.  Press F3+T to reload datapacks
 ## FPPH (Frequent Problems People Have)
 ### P: There is no datapacks folder, I can't find my Minecraft folder, it only accepts "mcpack" files
-S: This is probably because you are using an outdated version of Minecraft that doesn't support datapacks or you are using Bedrock Edition. **Bedrock Edition support will be added in a future release!**
+S: This is probably because you are using an outdated version of Minecraft that doesn't support datapacks or you are using Bedrock Edition. **We are not planning on supporting bedrock edition at this time.**
 ### P: My speedrun got rejected
 S: This datapack is only for practicing and can't be used in a real run. If you want to use this in a speedrun.com run, go to [this leaderboard](https://www.speedrun.com/mc_pogloot/full_game).
 ### P: The loot wasn't OP
