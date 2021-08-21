@@ -1,26 +1,65 @@
+[![Join the Discord Server](https://img.shields.io/discord/866101061810651158?color=7289da&label=Discord%20Server&style=for-the-badge)](https://discord.gg/TSmPnKxv7m)
 
-# PogLoot Minecraft Datapack
-PogLoot makes a speedrunners's day easier by improving loot.
-## What is this?
-PogLoot is a Minecraft: Java Edition Datapack (and in the future a mod) that improves loot from many different things. Some affected things include Piglin Barters (1.16 only), Blacksmith chests, Golem loot, Enderman drops, and more!
-## Installing
-1.  Download the data pack by clicking "releases" and make sure you get the right version.
-2.  Open  _Minecraft_.
-3.  Select the world you want to install the data pack for, click on "Edit", then "Open world folder".
-4.  Open the folder named  `datapacks`, and put the data pack into it.
-5.  Press F3+T to reload datapacks
-## FPPH (Frequent Problems People Have)
-### P: There is no datapacks folder, I can't find my Minecraft folder, it only accepts "mcpack" files
-S: This is probably because you are using an outdated version of Minecraft that doesn't support datapacks or you are using Bedrock Edition. **We are not planning on supporting bedrock edition at this time.**
-### P: My speedrun got rejected
-S: This datapack is only for practicing and can't be used in a real run. If you want to use this in a speedrun.com run, go to [this leaderboard](https://www.speedrun.com/mc_pogloot/full_game).
-### P: The loot wasn't OP
-S: This happens sometimes. In a bad scenario, you might get the minimum drop possible. This is just how the game works and how it generates the loot tables
-### P: Does this work on servers?
-S: Yes, it does.
-### P: I don't know how to install datapacks
-S: Scroll up for singleplayer, and for server, modify step 2 to be: Open your server folder, then open the folder of the world you wish to install the data pack in (default:  `world`). Don't do step 5. Type `/reload` from the console or as an operator if the server was running during the installation.
-### P: Can I use this in a YouTube video or Twitch stream?
-S: Yeah, that's the whole point! No credit needed!
-## Future Plans
-Add villager integrations! If you have any suggested modifications to the loot tables, just open up a pr or an issue!
+[![Amount of Downloads](https://img.shields.io/github/downloads/AbyssStudios/PogLoot/total?color=ec4145&style=for-the-badge)](https://github.com/AbyssStudios/PogLoot/releases/latest)
+
+[![License MPL-2.0 With Modification](https://img.shields.io/badge/license-MPL--2.0%20With%20Modification-3da560?style=for-the-badge)](https://github.com/AbyssStudios/PogLoot/blob/main/LICENSE)
+
+[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/AbyssStudios/PogLoot?color=49ddc1&include_prereleases&style=for-the-badge)](https://github.com/AbyssStudios/PogLoot/releases/latest)
+
+
+# <img src="https://github.com/AbyssStudios/PogLoot/blob/02ffdc44de03da80ca049fbe344cdde46de363fb/Icon.png?raw=true" alt="Logo" width="30"> PogLoot Datapack and Mod
+
+
+### Makes a speedrunner's day easier by improving loot.
+[Demo](https://www.speedrun.com/mc_pogloot/run/y8er8ldy) · [Report Bug](https://github.com/AbyssStudios/PogLoot/issues) · [Request Additions](https://github.com/AbyssStudios/PogLoot/issues) · [Discord Community](https://discord.gg/TSmPnKxv7m)
+
+
+
+## Table of Contents
+1. About the Project
+2. Usage
+3. Roadmap
+4. Contributing
+5. License
+6. Contact
+7. Acknowledgements
+
+## About The Project
+
+PogLoot is a Minecraft: Java Edition Datapack and Mod that improves loot from many different aspects of the game. Affected loot includes Piglin Barters (1.16 only), Blacksmith chests, Golem loot, Enderman drops, and more!
+
+## Usage
+
+Used for not only practice speedruns but also on speedrun.com/mc_pogloot where you can run actual speeduns!
+
+## Roadmap
+
+See the [open issues](https://github.com/AbyssStudios/PogLoot/issues) for a list of proposed features (and known issues).
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+Or, see above to propose a change and we could add it!
+
+## License
+
+Distributed under the MPL-2.0 License. See `LICENSE` for more information.
+
+## Contact
+
+MJ535 (MJ535#9999 on Discord)
+
+Project Link: [GitHub/AbyssStudios/PogLoot](https://github.com/AbyssStudios/PogLoot)
+
+## Acknowledgements
+
+* jsaper, Super Mod
+* Void_X_Walker, Mod Lead and Verifier
+* AprilSR for making this a thing
