@@ -54,7 +54,7 @@ Distributed under the MPL-2.0 License. See `LICENSE` for more information.
 
 ## Contact
 
-MJ535 (MJ535#9999 on Discord)
+https://discord.gg/TSmPnKxv7m (pogloot discord)
 
 Project Link: [GitHub/AbyssStudios/PogLoot](https://github.com/AbyssStudios/PogLoot)
 
